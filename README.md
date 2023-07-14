@@ -12,7 +12,7 @@ Software developer with a strong background in Java on Android. Expertise in Pyt
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brhngksel26&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brhngksel26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 😂 Random Dev Meme
+### 😂 Best Dev Meme
 
 ---![fdxbtdgpnno71](https://github.com/brhngksel26/brhngksel26/assets/36696181/53d00790-9be5-40fc-af2a-61cd7a23bc18)
 
